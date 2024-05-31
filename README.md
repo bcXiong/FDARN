@@ -1,7 +1,5 @@
 # Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and Modality-Specific Representation Learning
 
-This respository is for Cross-Modal Federated Human Activity Recognition via Modality-Agnostic and
-Modality-Specific Representation Learning, submitted to AAAI 2022 (ID: 1097)
 
 ## Software requirements
 
